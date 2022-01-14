@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'JejuHallasan';
+    font-weight: normal;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jeju/JejuHallasan.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/jeju/JejuHallasan.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/jeju/JejuHallasan.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/jeju/JejuHallasan.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/jeju/JejuHallasan.ttf') format("truetype");
+    font-display: swap;
+}
